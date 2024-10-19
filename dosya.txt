@@ -1,0 +1,2074 @@
+Müşteri 1 masaya yerleştirildi: 0
+Müşteri 2 masaya yerleştirildi: 1
+Müşteri 3 masaya yerleştirildi: 2
+Müşteri 4 masaya yerleştirildi: 3
+Müşteri 5 masaya yerleştirildi: 4
+Müşteri 6 masaya yerleştirildi: 5
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson 1 idli müşteriden sipariş alıyor
+1 İdli garson siparisi aldı
+1 idli garson 1 idli musterinin siparisini 0 adili asciye iletti .
+Ascı 1 beklemede.
+Ascı 0, 1 id'li musterinin siparisini aldi yemegi yapiyor.
+Kasa beklemede
+Ascı 1 beklemede.
+Adım: den6 ve şu anki durumum: 1
+Adım: den5 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 0
+Adım: den3 ve şu anki durumum: 1
+Adım: den10 ve şu anki durumum: 0
+Adım: den4 ve şu anki durumum: 1
+Adım: den2 ve şu anki durumum: 1
+Adım: den1 ve şu anki durumum: 2
+Adım: den7 ve şu anki durumum: 0
+Ascı 1 beklemede.
+Adım: den8 ve şu anki durumum: 0
+Kasa beklemede
+Ascı 1 beklemede.
+Ascı 1 beklemede.
+yemek hazır .1 İdli garson 1 idli müsteriye yemegi getirdi
+0 idli garson 2 idli müşteriden sipariş alıyor
+0 İdli garson siparisi aldı
+0 idli garson 2 idli musterinin siparisini 0 adili asciye iletti .
+Adım: den6 ve şu anki durumum: 1
+Adım: den5 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 0
+Adım: den4 ve şu anki durumum: 1
+Adım: den8 ve şu anki durumum: 0
+Adım: den7 ve şu anki durumum: 0
+Adım: den1 ve şu anki durumum: 3
+Kasa beklemede
+Adım: den10 ve şu anki durumum: 0
+Adım: den3 ve şu anki durumum: 1
+Adım: den1 ve yemegimi yiyorum 
+Adım: den2 ve şu anki durumum: 2
+Ascı 1 beklemede.
+1 idli garson beklemede
+Ascı 1 beklemede.
+Kasa beklemede
+Ascı 1 beklemede.
+Adım: den6 ve şu anki durumum: 1
+Adım: den5 ve şu anki durumum: 1
+Adım: den4 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 0
+Adım: den8 ve şu anki durumum: 0
+Adım: den7 ve şu anki durumum: 0
+Adım: den2 ve şu anki durumum: 2
+Adım: den10 ve şu anki durumum: 0
+Adım: den3 ve şu anki durumum: 1
+Ascı 1 beklemede.
+Kasa beklemede
+Hesap alınıyor...1
+Ascı 1 beklemede.
+Ascı 0, 1 id'li musterinin yemegi hazir garsona veriliyor 
+Ascı 0, 2 id'li musterinin siparisini aldi yemegi yapiyor.
+Ascı 1 beklemede.
+yemek hazır .0 İdli garson 2 idli müsteriye yemegi getirdi
+2 idli garson 3 idli müşteriden sipariş alıyor
+2 İdli garson siparisi aldı
+2 idli garson 3 idli musterinin siparisini 0 adili asciye iletti .
+Adım: den4 ve şu anki durumum: 1
+Adım: den8 ve şu anki durumum: 0
+Adım: den9 ve şu anki durumum: 0
+Adım: den7 ve şu anki durumum: 0
+Adım: den5 ve şu anki durumum: 1
+Adım: den6 ve şu anki durumum: 1
+Adım: den2 ve şu anki durumum: 3
+Adım: den2 ve yemegimi yiyorum 
+Adım: den3 ve şu anki durumum: 2
+Adım: den10 ve şu anki durumum: 0
+Ascı 1 beklemede.
+0 idli garson beklemede
+Adım: den1 ve şu anki durumum: 5
+den1 odeme yapiyor 
+Ascı 1 beklemede.
+Ascı 1 beklemede.
+Adım: den4 ve şu anki durumum: 1
+Adım: den7 ve şu anki durumum: 0
+Adım: den8 ve şu anki durumum: 0
+Adım: den5 ve şu anki durumum: 1
+Adım: den6 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 0
+Adım: den10 ve şu anki durumum: 0
+Adım: den3 ve şu anki durumum: 2
+Hesap alındı - Müşteri: 1
+Musteri  den1 restrorandan ayrildi
+Müşteri 7 masaya yerleştirildi: 0
+Ascı 1 beklemede.
+Ascı 1 beklemede.
+Kasa beklemede
+Hesap alınıyor...2
+Ascı 1 beklemede.
+Adım: den4 ve şu anki durumum: 1
+yemek hazır .2 İdli garson 3 idli müsteriye yemegi getirdi
+Adım: den7 ve şu anki durumum: 1
+0 idli garson 7 idli müşteriden sipariş alıyor
+0 İdli garson siparisi aldı
+0 idli garson 7 idli musterinin siparisini 1 adili asciye iletti .
+Adım: den5 ve şu anki durumum: 1
+Adım: den8 ve şu anki durumum: 0
+Adım: den9 ve şu anki durumum: 0
+Adım: den6 ve şu anki durumum: 1
+Adım: den3 ve şu anki durumum: 3
+Adım: den10 ve şu anki durumum: 0
+Adım: den3 ve yemegimi yiyorum 
+Ascı 1, 7 id'li musterinin siparisini aldi yemegi yapiyor.
+2 idli garson beklemede
+Adım: den2 ve şu anki durumum: 5
+den2 odeme yapiyor 
+Ascı 0, 2 id'li musterinin yemegi hazir garsona veriliyor 
+Adım: den4 ve şu anki durumum: 1
+Adım: den7 ve şu anki durumum: 2
+Adım: den5 ve şu anki durumum: 1
+Adım: den8 ve şu anki durumum: 0
+Adım: den9 ve şu anki durumum: 0
+Adım: den6 ve şu anki durumum: 1
+Adım: den10 ve şu anki durumum: 0
+Ascı 0, 3 id'li musterinin siparisini aldi yemegi yapiyor.
+Adım: den2 ve şu anki durumum: 5
+den2 odeme yapiyor 
+Hesap alındı - Müşteri: 2
+Musteri  den2 restrorandan ayrildi
+Müşteri 8 masaya yerleştirildi: 1
+yemek hazır .0 İdli garson 7 idli müsteriye yemegi getirdi
+Adım: den4 ve şu anki durumum: 1
+1 idli garson 8 idli müşteriden sipariş alıyor
+1 İdli garson siparisi aldı
+1 idli garson 8 idli musterinin siparisini 0 adili asciye iletti .
+Adım: den5 ve şu anki durumum: 1
+Adım: den7 ve şu anki durumum: 3
+Adım: den7 ve yemegimi yiyorum 
+Adım: den8 ve şu anki durumum: 2
+Adım: den6 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 0
+Adım: den10 ve şu anki durumum: 0
+Kasa beklemede
+Hesap alınıyor...3
+0 idli garson beklemede
+Adım: den3 ve şu anki durumum: 5
+den3 odeme yapiyor 
+Adım: den4 ve şu anki durumum: 1
+Adım: den5 ve şu anki durumum: 1
+Adım: den8 ve şu anki durumum: 2
+Adım: den9 ve şu anki durumum: 0
+Adım: den6 ve şu anki durumum: 1
+Adım: den10 ve şu anki durumum: 0
+Adım: den3 ve şu anki durumum: 5
+den3 odeme yapiyor 
+Ascı 1, 7 id'li musterinin yemegi hazir garsona veriliyor 
+Hesap alındı - Müşteri: 3
+Musteri  den3 restrorandan ayrildi
+Müşteri 9 masaya yerleştirildi: 2
+Ascı 1 beklemede.
+yemek hazır .1 İdli garson 8 idli müsteriye yemegi getirdi
+0 idli garson 9 idli müşteriden sipariş alıyor
+0 İdli garson siparisi aldı
+0 idli garson 9 idli musterinin siparisini 1 adili asciye iletti .
+Adım: den4 ve şu anki durumum: 1
+Adım: den5 ve şu anki durumum: 1
+Adım: den8 ve şu anki durumum: 3
+Adım: den8 ve yemegimi yiyorum 
+Adım: den9 ve şu anki durumum: 2
+Adım: den10 ve şu anki durumum: 0
+Adım: den6 ve şu anki durumum: 1
+Ascı 1, 9 id'li musterinin siparisini aldi yemegi yapiyor.
+1 idli garson beklemede
+Adım: den7 ve şu anki durumum: 4
+Kasa beklemede
+Hesap alınıyor...7
+Ascı 0, 3 id'li musterinin yemegi hazir garsona veriliyor 
+Ascı 0, 8 id'li musterinin siparisini aldi yemegi yapiyor.
+Adım: den5 ve şu anki durumum: 1
+Adım: den4 ve şu anki durumum: 1
+Adım: den10 ve şu anki durumum: 0
+Adım: den9 ve şu anki durumum: 2
+Adım: den6 ve şu anki durumum: 1
+Adım: den7 ve şu anki durumum: 5
+den7 odeme yapiyor 
+yemek hazır .0 İdli garson 9 idli müsteriye yemegi getirdi
+2 idli garson 4 idli müşteriden sipariş alıyor
+2 İdli garson siparisi aldı
+2 idli garson 4 idli musterinin siparisini 0 adili asciye iletti .
+Adım: den5 ve şu anki durumum: 1
+Adım: den4 ve şu anki durumum: 2
+Adım: den10 ve şu anki durumum: 0
+Adım: den9 ve şu anki durumum: 3
+Adım: den9 ve yemegimi yiyorum 
+Adım: den6 ve şu anki durumum: 1
+Hesap alındı - Müşteri: 7
+Musteri  den7 restrorandan ayrildi
+Müşteri 10 masaya yerleştirildi: 0
+0 idli garson beklemede
+Adım: den8 ve şu anki durumum: 4
+Kasa beklemede
+Hesap alınıyor...8
+Adım: den5 ve şu anki durumum: 1
+Adım: den4 ve şu anki durumum: 2
+Adım: den10 ve şu anki durumum: 1
+Adım: den6 ve şu anki durumum: 1
+Adım: den8 ve şu anki durumum: 5
+den8 odeme yapiyor 
+Ascı 1, 9 id'li musterinin yemegi hazir garsona veriliyor 
+Ascı 1 beklemede.
+Ascı 0, 8 id'li musterinin yemegi hazir garsona veriliyor 
+yemek hazır .2 İdli garson 4 idli müsteriye yemegi getirdi
+0 idli garson 10 idli müşteriden sipariş alıyor
+0 İdli garson siparisi aldı
+0 idli garson 10 idli musterinin siparisini 0 adili asciye iletti .
+Adım: den4 ve şu anki durumum: 3
+Adım: den10 ve şu anki durumum: 2
+Adım: den5 ve şu anki durumum: 1
+Adım: den4 ve yemegimi yiyorum 
+Adım: den6 ve şu anki durumum: 1
+Ascı 1 beklemede.
+2 idli garson beklemede
+Ascı 0, 4 id'li  ve 10 idl'li musterinin siparisini aldi yemekleri yapiyor.
+Adım: den8 ve şu anki durumum: 5
+den8 odeme yapiyor 
+Adım: den9 ve şu anki durumum: 4
+Hesap alındı - Müşteri: 8
+Musteri  den8 restrorandan ayrildi
+Ascı 1 beklemede.
+Ascı 1 beklemede.
+Adım: den10 ve şu anki durumum: 2
+Adım: den5 ve şu anki durumum: 1
+Adım: den6 ve şu anki durumum: 1
+Kasa beklemede
+Hesap alınıyor...9
+Ascı 1 beklemede.
+Adım: den9 ve şu anki durumum: 5
+den9 odeme yapiyor 
+Ascı 1 beklemede.
+Ascı 1 beklemede.
+yemek hazır .0 İdli garson 10 idli müsteriye yemegi getirdi
+1 idli garson 5 idli müşteriden sipariş alıyor
+1 İdli garson siparisi aldı
+1 idli garson 5 idli musterinin siparisini 1 adili asciye iletti .
+Adım: den10 ve şu anki durumum: 3
+Adım: den10 ve yemegimi yiyorum 
+Adım: den5 ve şu anki durumum: 2
+Adım: den6 ve şu anki durumum: 1
+Ascı 1, 5 id'li musterinin siparisini aldi yemegi yapiyor.
+0 idli garson beklemede
+Adım: den4 ve şu anki durumum: 4
+Adım: den9 ve şu anki durumum: 5
+den9 odeme yapiyor 
+Hesap alındı - Müşteri: 9
+Musteri  den9 restrorandan ayrildi
+Adım: den5 ve şu anki durumum: 2
+Adım: den6 ve şu anki durumum: 1
+Adım: den4 ve şu anki durumum: 4
+Kasa beklemede
+Hesap alınıyor...4
+Ascı 0, 4 id'li  ve 10 idl'li musterinin yemeklerini yaptı. ilgili garsona veriyor.
+yemek hazır .1 İdli garson 5 idli müsteriye yemegi getirdi
+0 idli garson 6 idli müşteriden sipariş alıyor
+0 İdli garson siparisi aldı
+0 idli garson 6 idli musterinin siparisini 0 adili asciye iletti .
+Ascı 0, 6 id'li musterinin siparisini aldi yemegi yapiyor.
+Adım: den5 ve şu anki durumum: 3
+Adım: den5 ve yemegimi yiyorum 
+Adım: den6 ve şu anki durumum: 2
+1 idli garson beklemede
+Adım: den4 ve şu anki durumum: 5
+Adım: den10 ve şu anki durumum: 4
+den4 odeme yapiyor 
+Adım: den6 ve şu anki durumum: 2
+Hesap alındı - Müşteri: 4
+Musteri  den4 restrorandan ayrildi
+Adım: den10 ve şu anki durumum: 4
+Ascı 1, 5 id'li musterinin yemegi hazir garsona veriliyor 
+Kasa beklemede
+Hesap alınıyor...10
+Ascı 1 beklemede.
+yemek hazır .0 İdli garson 6 idli müsteriye yemegi getirdi
+Adım: den6 ve şu anki durumum: 3
+Adım: den6 ve yemegimi yiyorum 
+Ascı 1 beklemede.
+2 idli garson beklemede
+1 idli garson beklemede
+0 idli garson beklemede
+Adım: den5 ve şu anki durumum: 4
+Adım: den10 ve şu anki durumum: 5
+den10 odeme yapiyor 
+Ascı 1 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Müşteri 1 masaya yerleştirildi: 0
+Müşteri 2 masaya yerleştirildi: 1
+Müşteri 3 masaya yerleştirildi: 2
+Müşteri 4 masaya yerleştirildi: 3
+Müşteri 5 masaya yerleştirildi: 4
+Müşteri 6 masaya yerleştirildi: 5
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson 1 idli müşteriden sipariş alıyor
+1 İdli garson siparisi aldı
+1 idli garson 1 idli musterinin siparisini 0 adili asciye iletti .
+Ascı 1 beklemede.
+Ascı 0, 1 id'li musterinin siparisini aldi yemegi yapiyor.
+Kasa beklemede
+Ascı 1 beklemede.
+Adım: den5 ve şu anki durumum: 1
+Adım: den4 ve şu anki durumum: 1
+Adım: den3 ve şu anki durumum: 1
+Adım: den8 ve şu anki durumum: 0
+Adım: den2 ve şu anki durumum: 1
+Adım: den1 ve şu anki durumum: 2
+Adım: den9 ve şu anki durumum: 0
+Adım: den10 ve şu anki durumum: 0
+Adım: den6 ve şu anki durumum: 1
+Adım: den7 ve şu anki durumum: 0
+Ascı 1 beklemede.
+Kasa beklemede
+Ascı 1 beklemede.
+Ascı 1 beklemede.
+yemek hazır .1 İdli garson 1 idli müsteriye yemegi getirdi
+0 idli garson 2 idli müşteriden sipariş alıyor
+0 İdli garson siparisi aldı
+0 idli garson 2 idli musterinin siparisini 0 adili asciye iletti .
+Adım: den5 ve şu anki durumum: 1
+Adım: den3 ve şu anki durumum: 1
+Adım: den7 ve şu anki durumum: 0
+Adım: den6 ve şu anki durumum: 1
+Kasa beklemede
+Adım: den4 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 0
+Adım: den10 ve şu anki durumum: 0
+Adım: den8 ve şu anki durumum: 0
+Adım: den2 ve şu anki durumum: 2
+Adım: den1 ve şu anki durumum: 3
+Adım: den1 ve yemegimi yiyorum 
+Ascı 1 beklemede.
+1 idli garson beklemede
+Ascı 1 beklemede.
+Kasa beklemede
+Ascı 1 beklemede.
+Adım: den3 ve şu anki durumum: 1
+Adım: den7 ve şu anki durumum: 0
+Adım: den4 ve şu anki durumum: 1
+Adım: den2 ve şu anki durumum: 2
+Adım: den5 ve şu anki durumum: 1
+Adım: den10 ve şu anki durumum: 0
+Adım: den9 ve şu anki durumum: 0
+Adım: den8 ve şu anki durumum: 0
+Adım: den6 ve şu anki durumum: 1
+Ascı 1 beklemede.
+Kasa beklemede
+Hesap alınıyor...1
+Ascı 1 beklemede.
+Ascı 0, 1 id'li musterinin yemegi hazir garsona veriliyor 
+Ascı 0, 2 id'li musterinin siparisini aldi yemegi yapiyor.
+Ascı 1 beklemede.
+Adım: den3 ve şu anki durumum: 1
+yemek hazır .0 İdli garson 2 idli müsteriye yemegi getirdi
+2 idli garson 3 idli müşteriden sipariş alıyor
+2 İdli garson siparisi aldı
+2 idli garson 3 idli musterinin siparisini 0 adili asciye iletti .
+Adım: den7 ve şu anki durumum: 0
+Adım: den4 ve şu anki durumum: 1
+Adım: den6 ve şu anki durumum: 1
+Adım: den5 ve şu anki durumum: 1
+Adım: den2 ve şu anki durumum: 3
+Adım: den9 ve şu anki durumum: 0
+Adım: den8 ve şu anki durumum: 0
+Adım: den10 ve şu anki durumum: 0
+Adım: den2 ve yemegimi yiyorum 
+Ascı 1 beklemede.
+0 idli garson beklemede
+Adım: den1 ve şu anki durumum: 5
+den1 odeme yapiyor 
+Ascı 1 beklemede.
+Ascı 1 beklemede.
+Adım: den3 ve şu anki durumum: 2
+Adım: den7 ve şu anki durumum: 0
+Adım: den4 ve şu anki durumum: 1
+Hesap alındı - Müşteri: 1
+Musteri  den1 restrorandan ayrildi
+Müşteri 7 masaya yerleştirildi: 0
+Adım: den5 ve şu anki durumum: 1
+Adım: den6 ve şu anki durumum: 1
+Adım: den8 ve şu anki durumum: 0
+Adım: den10 ve şu anki durumum: 0
+Adım: den9 ve şu anki durumum: 0
+Ascı 1 beklemede.
+Ascı 1 beklemede.
+Kasa beklemede
+Hesap alınıyor...2
+Ascı 1 beklemede.
+yemek hazır .2 İdli garson 3 idli müsteriye yemegi getirdi
+0 idli garson 7 idli müşteriden sipariş alıyor
+0 İdli garson siparisi aldı
+0 idli garson 7 idli musterinin siparisini 1 adili asciye iletti .
+Adım: den3 ve şu anki durumum: 3
+Adım: den3 ve yemegimi yiyorum 
+Adım: den7 ve şu anki durumum: 2
+Adım: den5 ve şu anki durumum: 1
+Adım: den6 ve şu anki durumum: 1
+Adım: den4 ve şu anki durumum: 1
+Adım: den8 ve şu anki durumum: 0
+Adım: den9 ve şu anki durumum: 0
+Adım: den10 ve şu anki durumum: 0
+Ascı 1, 7 id'li musterinin siparisini aldi yemegi yapiyor.
+2 idli garson beklemede
+Adım: den2 ve şu anki durumum: 5
+den2 odeme yapiyor 
+Ascı 0, 2 id'li musterinin yemegi hazir garsona veriliyor 
+Adım: den7 ve şu anki durumum: 2
+Adım: den6 ve şu anki durumum: 1
+Adım: den5 ve şu anki durumum: 1
+Adım: den4 ve şu anki durumum: 1
+Adım: den10 ve şu anki durumum: 0
+Adım: den8 ve şu anki durumum: 0
+Adım: den9 ve şu anki durumum: 0
+Ascı 0, 3 id'li musterinin siparisini aldi yemegi yapiyor.
+Hesap alındı - Müşteri: 2
+Adım: den2 ve şu anki durumum: 5
+den2 odeme yapiyor 
+Musteri  den2 restrorandan ayrildi
+Müşteri 8 masaya yerleştirildi: 1
+yemek hazır .0 İdli garson 7 idli müsteriye yemegi getirdi
+1 idli garson 8 idli müşteriden sipariş alıyor
+1 İdli garson siparisi aldı
+1 idli garson 8 idli musterinin siparisini 0 adili asciye iletti .
+Adım: den7 ve şu anki durumum: 3
+Adım: den7 ve yemegimi yiyorum 
+Adım: den6 ve şu anki durumum: 1
+Adım: den5 ve şu anki durumum: 1
+Adım: den4 ve şu anki durumum: 1
+Adım: den10 ve şu anki durumum: 0
+Kasa beklemede
+Adım: den9 ve şu anki durumum: 0
+Adım: den8 ve şu anki durumum: 2
+Hesap alınıyor...3
+0 idli garson beklemede
+Adım: den3 ve şu anki durumum: 5
+den3 odeme yapiyor 
+Adım: den6 ve şu anki durumum: 1
+Adım: den5 ve şu anki durumum: 1
+Adım: den4 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 0
+Adım: den8 ve şu anki durumum: 2
+Adım: den10 ve şu anki durumum: 0
+Adım: den3 ve şu anki durumum: 5
+den3 odeme yapiyor 
+Ascı 1, 7 id'li musterinin yemegi hazir garsona veriliyor 
+Hesap alındı - Müşteri: 3
+Musteri  den3 restrorandan ayrildi
+Müşteri 9 masaya yerleştirildi: 2
+Ascı 1 beklemede.
+yemek hazır .1 İdli garson 8 idli müsteriye yemegi getirdi
+0 idli garson 9 idli müşteriden sipariş alıyor
+0 İdli garson siparisi aldı
+0 idli garson 9 idli musterinin siparisini 1 adili asciye iletti .
+Adım: den5 ve şu anki durumum: 1
+Adım: den4 ve şu anki durumum: 1
+Adım: den6 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 2
+Adım: den10 ve şu anki durumum: 0
+Adım: den8 ve şu anki durumum: 3
+Adım: den8 ve yemegimi yiyorum 
+Ascı 1, 9 id'li musterinin siparisini aldi yemegi yapiyor.
+1 idli garson beklemede
+Adım: den7 ve şu anki durumum: 4
+Kasa beklemede
+Hesap alınıyor...7
+Ascı 0, 3 id'li musterinin yemegi hazir garsona veriliyor 
+Ascı 0, 8 id'li musterinin siparisini aldi yemegi yapiyor.
+Adım: den5 ve şu anki durumum: 1
+Adım: den6 ve şu anki durumum: 1
+Adım: den4 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 2
+Adım: den10 ve şu anki durumum: 0
+Adım: den7 ve şu anki durumum: 5
+den7 odeme yapiyor 
+yemek hazır .0 İdli garson 9 idli müsteriye yemegi getirdi
+2 idli garson 4 idli müşteriden sipariş alıyor
+2 İdli garson siparisi aldı
+2 idli garson 4 idli musterinin siparisini 0 adili asciye iletti .
+Adım: den6 ve şu anki durumum: 1
+Adım: den4 ve şu anki durumum: 2
+Adım: den5 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 3
+Hesap alındı - Müşteri: 7
+Adım: den10 ve şu anki durumum: 0
+Musteri  den7 restrorandan ayrildi
+Adım: den9 ve yemegimi yiyorum 
+Müşteri 10 masaya yerleştirildi: 0
+0 idli garson beklemede
+Adım: den8 ve şu anki durumum: 4
+Kasa beklemede
+Hesap alınıyor...8
+Adım: den6 ve şu anki durumum: 1
+Adım: den5 ve şu anki durumum: 1
+Adım: den4 ve şu anki durumum: 2
+Adım: den10 ve şu anki durumum: 1
+Adım: den8 ve şu anki durumum: 5
+den8 odeme yapiyor 
+Ascı 1, 9 id'li musterinin yemegi hazir garsona veriliyor 
+Ascı 1 beklemede.
+Ascı 0, 8 id'li musterinin yemegi hazir garsona veriliyor 
+yemek hazır .2 İdli garson 4 idli müsteriye yemegi getirdi
+0 idli garson 10 idli müşteriden sipariş alıyor
+0 İdli garson siparisi aldı
+0 idli garson 10 idli musterinin siparisini 0 adili asciye iletti .
+Adım: den4 ve şu anki durumum: 3
+Adım: den6 ve şu anki durumum: 1
+Adım: den5 ve şu anki durumum: 1
+Adım: den4 ve yemegimi yiyorum 
+Adım: den10 ve şu anki durumum: 2
+Ascı 1 beklemede.
+Ascı 0, 4 id'li  ve 10 idl'li musterinin siparisini aldi yemekleri yapiyor.
+2 idli garson beklemede
+Adım: den8 ve şu anki durumum: 5
+den8 odeme yapiyor 
+Hesap alındı - Müşteri: 8
+Adım: den9 ve şu anki durumum: 4
+Musteri  den8 restrorandan ayrildi
+Ascı 1 beklemede.
+Ascı 1 beklemede.
+Adım: den5 ve şu anki durumum: 1
+Adım: den6 ve şu anki durumum: 1
+Adım: den10 ve şu anki durumum: 2
+Kasa beklemede
+Hesap alınıyor...9
+Ascı 1 beklemede.
+Adım: den9 ve şu anki durumum: 5
+den9 odeme yapiyor 
+Ascı 1 beklemede.
+Ascı 1 beklemede.
+yemek hazır .0 İdli garson 10 idli müsteriye yemegi getirdi
+1 idli garson 5 idli müşteriden sipariş alıyor
+1 İdli garson siparisi aldı
+1 idli garson 5 idli musterinin siparisini 1 adili asciye iletti .
+Adım: den5 ve şu anki durumum: 2
+Adım: den6 ve şu anki durumum: 1
+Adım: den10 ve şu anki durumum: 3
+Adım: den10 ve yemegimi yiyorum 
+Ascı 1, 5 id'li musterinin siparisini aldi yemegi yapiyor.
+0 idli garson beklemede
+Adım: den4 ve şu anki durumum: 4
+Adım: den9 ve şu anki durumum: 5
+den9 odeme yapiyor 
+Hesap alındı - Müşteri: 9
+Musteri  den9 restrorandan ayrildi
+Adım: den5 ve şu anki durumum: 2
+Adım: den6 ve şu anki durumum: 1
+Adım: den4 ve şu anki durumum: 4
+Kasa beklemede
+Hesap alınıyor...4
+Ascı 0, 4 id'li  ve 10 idl'li musterinin yemeklerini yaptı. ilgili garsona veriyor.
+Ascı 0 beklemede.
+yemek hazır .1 İdli garson 5 idli müsteriye yemegi getirdi
+0 idli garson 6 idli müşteriden sipariş alıyor
+0 İdli garson siparisi aldı
+0 idli garson 6 idli musterinin siparisini 0 adili asciye iletti .
+Adım: den6 ve şu anki durumum: 2
+Adım: den5 ve şu anki durumum: 3
+Adım: den5 ve yemegimi yiyorum 
+1 idli garson beklemede
+Ascı 0, 6 id'li musterinin siparisini aldi yemegi yapiyor.
+Adım: den4 ve şu anki durumum: 5
+den4 odeme yapiyor 
+Adım: den10 ve şu anki durumum: 4
+Adım: den6 ve şu anki durumum: 2
+Hesap alındı - Müşteri: 4
+Musteri  den4 restrorandan ayrildi
+Adım: den10 ve şu anki durumum: 4
+Ascı 1, 5 id'li musterinin yemegi hazir garsona veriliyor 
+Kasa beklemede
+Hesap alınıyor...10
+Ascı 1 beklemede.
+yemek hazır .0 İdli garson 6 idli müsteriye yemegi getirdi
+Adım: den6 ve şu anki durumum: 3
+Adım: den6 ve yemegimi yiyorum 
+Ascı 1 beklemede.
+0 idli garson beklemede
+2 idli garson beklemede
+1 idli garson beklemede
+Adım: den10 ve şu anki durumum: 5
+Adım: den5 ve şu anki durumum: 4
+den10 odeme yapiyor 
+Ascı 1 beklemede.
+0 idli garson beklemede
+2 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+0 idli garson beklemede
+1 idli garson beklemede
+2 idli garson beklemede
+Ascı 1 beklemede.
+0 idli garson beklemede
+1 idli garson beklemede
+2 idli garson beklemede
+Adım: den10 ve şu anki durumum: 5
+Hesap alındı - Müşteri: 10
+Adım: den5 ve şu anki durumum: 4
+den10 odeme yapiyor 
+Musteri  den10 restrorandan ayrildi
+Ascı 1 beklemede.
+Müşteri 1 masaya yerleştirildi: 0
+Müşteri 2 masaya yerleştirildi: 1
+Müşteri 3 masaya yerleştirildi: 2
+Müşteri 4 masaya yerleştirildi: 3
+Müşteri 5 masaya yerleştirildi: 4
+Müşteri 6 masaya yerleştirildi: 5
+0 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson 1 idli müşteriden sipariş alıyor
+0 İdli garson siparisi aldı
+0 idli garson 1 idli musterinin siparisini 0 adili asciye iletti .
+Ascı 1 beklemede.
+Ascı 0, 1 id'li musterinin siparisini aldi yemegi yapiyor.
+Kasa beklemede
+Ascı 1 beklemede.
+Ascı 1 beklemede.
+Adım: den4 ve şu anki durumum: 1
+Adım: den3 ve şu anki durumum: 1
+Adım: den1 ve şu anki durumum: 2
+Adım: den7 ve şu anki durumum: 0
+Adım: den6 ve şu anki durumum: 1
+Adım: den5 ve şu anki durumum: 1
+Adım: den10 ve şu anki durumum: 0
+Adım: den8 ve şu anki durumum: 0
+Adım: den9 ve şu anki durumum: 0
+Adım: den2 ve şu anki durumum: 1
+Kasa beklemede
+Ascı 1 beklemede.
+Ascı 1 beklemede.
+yemek hazır .0 İdli garson 1 idli müsteriye yemegi getirdi
+2 idli garson 2 idli müşteriden sipariş alıyor
+2 İdli garson siparisi aldı
+2 idli garson 2 idli musterinin siparisini 0 adili asciye iletti .
+Kasa beklemede
+Adım: den4 ve şu anki durumum: 1
+Ascı 1 beklemede.
+Adım: den5 ve şu anki durumum: 1
+Adım: den3 ve şu anki durumum: 1
+Adım: den6 ve şu anki durumum: 1
+Adım: den1 ve şu anki durumum: 3
+Adım: den7 ve şu anki durumum: 0
+Adım: den1 ve yemegimi yiyorum 
+Adım: den9 ve şu anki durumum: 0
+Adım: den10 ve şu anki durumum: 0
+Adım: den8 ve şu anki durumum: 0
+Adım: den2 ve şu anki durumum: 2
+0 idli garson beklemede
+Ascı 1 beklemede.
+Kasa beklemede
+Ascı 1 beklemede.
+Adım: den4 ve şu anki durumum: 1
+Adım: den6 ve şu anki durumum: 1
+Adım: den3 ve şu anki durumum: 1
+Adım: den5 ve şu anki durumum: 1
+Ascı 1 beklemede.
+Adım: den2 ve şu anki durumum: 2
+Adım: den10 ve şu anki durumum: 0
+Adım: den9 ve şu anki durumum: 0
+Adım: den7 ve şu anki durumum: 0
+Adım: den8 ve şu anki durumum: 0
+Kasa beklemede
+Ascı 1 beklemede.
+Ascı 0, 1 id'li musterinin yemegi hazir garsona veriliyor 
+Ascı 0, 2 id'li musterinin siparisini aldi yemegi yapiyor.
+Ascı 1 beklemede.
+yemek hazır .2 İdli garson 2 idli müsteriye yemegi getirdi
+1 idli garson 3 idli müşteriden sipariş alıyor
+1 İdli garson siparisi aldı
+1 idli garson 3 idli musterinin siparisini 0 adili asciye iletti .
+Kasa beklemede
+Hesap alınıyor...1
+Adım: den4 ve şu anki durumum: 1
+Adım: den6 ve şu anki durumum: 1
+Adım: den3 ve şu anki durumum: 2
+Adım: den5 ve şu anki durumum: 1
+Adım: den7 ve şu anki durumum: 0
+Adım: den9 ve şu anki durumum: 0
+Adım: den2 ve şu anki durumum: 3
+Ascı 1 beklemede.
+Adım: den10 ve şu anki durumum: 0
+Adım: den8 ve şu anki durumum: 0
+Adım: den2 ve yemegimi yiyorum 
+2 idli garson beklemede
+Ascı 1 beklemede.
+Adım: den1 ve şu anki durumum: 5
+den1 odeme yapiyor 
+Ascı 1 beklemede.
+Adım: den4 ve şu anki durumum: 1
+Adım: den3 ve şu anki durumum: 2
+Adım: den6 ve şu anki durumum: 1
+Adım: den5 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 0
+Adım: den7 ve şu anki durumum: 0
+Adım: den8 ve şu anki durumum: 0
+Adım: den10 ve şu anki durumum: 0
+Ascı 1 beklemede.
+Ascı 1 beklemede.
+Adım: den1 ve şu anki durumum: 5
+den1 odeme yapiyor 
+Ascı 1 beklemede.
+yemek hazır .1 İdli garson 3 idli müsteriye yemegi getirdi
+2 idli garson 4 idli müşteriden sipariş alıyor
+2 İdli garson siparisi aldı
+2 idli garson 4 idli musterinin siparisini 1 adili asciye iletti .
+Adım: den4 ve şu anki durumum: 2
+Adım: den3 ve şu anki durumum: 3
+Adım: den3 ve yemegimi yiyorum 
+Adım: den6 ve şu anki durumum: 1
+Adım: den5 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 0
+Adım: den7 ve şu anki durumum: 0
+Adım: den8 ve şu anki durumum: 0
+Adım: den10 ve şu anki durumum: 0
+Ascı 1, 4 id'li musterinin siparisini aldi yemegi yapiyor.
+1 idli garson beklemede
+Hesap alındı - Müşteri: 1
+Musteri  den1 restrorandan ayrildi
+Müşteri 7 masaya yerleştirildi: 0
+Adım: den2 ve şu anki durumum: 4
+Ascı 0, 2 id'li musterinin yemegi hazir garsona veriliyor 
+Adım: den6 ve şu anki durumum: 1
+Adım: den4 ve şu anki durumum: 2
+Adım: den5 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 0
+Adım: den7 ve şu anki durumum: 1
+Adım: den10 ve şu anki durumum: 0
+Adım: den8 ve şu anki durumum: 0
+Ascı 0, 3 id'li musterinin siparisini aldi yemegi yapiyor.
+Kasa beklemede
+Hesap alınıyor...2
+Adım: den2 ve şu anki durumum: 5
+den2 odeme yapiyor 
+yemek hazır .2 İdli garson 4 idli müsteriye yemegi getirdi
+0 idli garson 7 idli müşteriden sipariş alıyor
+0 İdli garson siparisi aldı
+0 idli garson 7 idli musterinin siparisini 0 adili asciye iletti .
+Adım: den6 ve şu anki durumum: 1
+Adım: den4 ve şu anki durumum: 3
+Adım: den4 ve yemegimi yiyorum 
+Adım: den5 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 0
+Adım: den7 ve şu anki durumum: 2
+Adım: den10 ve şu anki durumum: 0
+Adım: den8 ve şu anki durumum: 0
+2 idli garson beklemede
+Adım: den3 ve şu anki durumum: 4
+Adım: den2 ve şu anki durumum: 5
+den2 odeme yapiyor 
+Adım: den6 ve şu anki durumum: 1
+Adım: den5 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 0
+Adım: den7 ve şu anki durumum: 2
+Adım: den10 ve şu anki durumum: 0
+Adım: den8 ve şu anki durumum: 0
+Ascı 1, 4 id'li musterinin yemegi hazir garsona veriliyor 
+Adım: den3 ve şu anki durumum: 4
+Adım: den2 ve şu anki durumum: 5
+den2 odeme yapiyor 
+Ascı 1 beklemede.
+yemek hazır .0 İdli garson 7 idli müsteriye yemegi getirdi
+2 idli garson 5 idli müşteriden sipariş alıyor
+2 İdli garson siparisi aldı
+2 idli garson 5 idli musterinin siparisini 1 adili asciye iletti .
+Adım: den6 ve şu anki durumum: 1
+Adım: den5 ve şu anki durumum: 2
+Adım: den9 ve şu anki durumum: 0
+Adım: den7 ve şu anki durumum: 3
+Adım: den7 ve yemegimi yiyorum 
+Adım: den10 ve şu anki durumum: 0
+Adım: den8 ve şu anki durumum: 0
+Ascı 1, 5 id'li musterinin siparisini aldi yemegi yapiyor.
+0 idli garson beklemede
+Hesap alındı - Müşteri: 2
+Musteri  den2 restrorandan ayrildi
+Müşteri 8 masaya yerleştirildi: 1
+Ascı 0, 3 id'li musterinin yemegi hazir garsona veriliyor 
+Ascı 0, 7 id'li musterinin siparisini aldi yemegi yapiyor.
+Adım: den3 ve şu anki durumum: 4
+Adım: den4 ve şu anki durumum: 4
+Adım: den6 ve şu anki durumum: 1
+Adım: den5 ve şu anki durumum: 2
+Adım: den9 ve şu anki durumum: 0
+Adım: den10 ve şu anki durumum: 0
+Adım: den8 ve şu anki durumum: 1
+Kasa beklemede
+Hesap alınıyor...3
+Adım: den3 ve şu anki durumum: 5
+Adım: den4 ve şu anki durumum: 4
+den3 odeme yapiyor 
+yemek hazır .2 İdli garson 5 idli müsteriye yemegi getirdi
+1 idli garson 8 idli müşteriden sipariş alıyor
+1 İdli garson siparisi aldı
+1 idli garson 8 idli musterinin siparisini 0 adili asciye iletti .
+Adım: den6 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 0
+Adım: den5 ve şu anki durumum: 3
+Adım: den5 ve yemegimi yiyorum 
+Adım: den10 ve şu anki durumum: 0
+Adım: den8 ve şu anki durumum: 2
+2 idli garson beklemede
+Adım: den4 ve şu anki durumum: 4
+Adım: den3 ve şu anki durumum: 5
+den3 odeme yapiyor 
+Adım: den7 ve şu anki durumum: 4
+Adım: den6 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 0
+Adım: den10 ve şu anki durumum: 0
+Adım: den8 ve şu anki durumum: 2
+Müşteri 9 zaman aşımına uğradı ve yok edildi.
+Müşteri 10 zaman aşımına uğradı ve yok edildi.
+Ascı 1, 5 id'li musterinin yemegi hazir garsona veriliyor 
+Adım: den4 ve şu anki durumum: 4
+Adım: den7 ve şu anki durumum: 4
+Adım: den3 ve şu anki durumum: 5
+den3 odeme yapiyor 
+Ascı 1 beklemede.
+Ascı 0, 7 id'li musterinin yemegi hazir garsona veriliyor 
+yemek hazır .1 İdli garson 8 idli müsteriye yemegi getirdi
+2 idli garson 6 idli müşteriden sipariş alıyor
+2 İdli garson siparisi aldı
+2 idli garson 6 idli musterinin siparisini 0 adili asciye iletti .
+Hesap alındı - Müşteri: 3
+Musteri  den3 restrorandan ayrildi
+Adım: den6 ve şu anki durumum: 2
+Adım: den8 ve şu anki durumum: 3
+Adım: den8 ve yemegimi yiyorum 
+Ascı 1 beklemede.
+Ascı 0, 8 id'li  ve 6 idl'li musterinin siparisini aldi yemekleri yapiyor.
+1 idli garson beklemede
+Ascı 1 beklemede.
+Kasa beklemede
+Adım: den4 ve şu anki durumum: 5
+Hesap alınıyor...4
+den4 odeme yapiyor 
+Adım: den7 ve şu anki durumum: 4
+Adım: den5 ve şu anki durumum: 4
+Ascı 1 beklemede.
+Adım: den6 ve şu anki durumum: 2
+Ascı 1 beklemede.
+Ascı 1 beklemede.
+Adım: den4 ve şu anki durumum: 5
+den4 odeme yapiyor 
+Adım: den7 ve şu anki durumum: 4
+Adım: den5 ve şu anki durumum: 4
+Ascı 1 beklemede.
+yemek hazır .2 İdli garson 6 idli müsteriye yemegi getirdi
+Adım: den6 ve şu anki durumum: 3
+Adım: den6 ve yemegimi yiyorum 
+Ascı 1 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+2 idli garson beklemede
+Adım: den7 ve şu anki durumum: 4
+Adım: den8 ve şu anki durumum: 4
+Adım: den4 ve şu anki durumum: 5
+1 idli garson beklemede
+0 idli garson beklemede
+den4 odeme yapiyor 
+Adım: den5 ve şu anki durumum: 4
+Ascı 1 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Hesap alındı - Müşteri: 4
+Musteri  den4 restrorandan ayrildi
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0, 8 id'li  ve 6 idl'li musterinin yemeklerini yaptı. ilgili garsona veriyor.
+Adım: den7 ve şu anki durumum: 4
+Adım: den8 ve şu anki durumum: 4
+2 idli garson beklemede
+Adım: den5 ve şu anki durumum: 4
+1 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Kasa beklemede
+Ascı 0 beklemede.
+Hesap alınıyor...7
+2 idli garson beklemede
+1 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Adım: den7 ve şu anki durumum: 5
+den7 odeme yapiyor 
+Adım: den6 ve şu anki durumum: 4
+Adım: den8 ve şu anki durumum: 4
+Ascı 0 beklemede.
+Adım: den5 ve şu anki durumum: 4
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Adım: den7 ve şu anki durumum: 5
+Adım: den6 ve şu anki durumum: 4
+den7 odeme yapiyor 
+Adım: den8 ve şu anki durumum: 4
+Adım: den5 ve şu anki durumum: 4
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+1 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Hesap alındı - Müşteri: 7
+Musteri  den7 restrorandan ayrildi
+Adım: den6 ve şu anki durumum: 4
+Adım: den8 ve şu anki durumum: 4
+Adım: den5 ve şu anki durumum: 4
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Kasa beklemede
+Hesap alınıyor...5
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Adım: den6 ve şu anki durumum: 4
+Adım: den8 ve şu anki durumum: 4
+Adım: den5 ve şu anki durumum: 5
+den5 odeme yapiyor 
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+1 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Adım: den6 ve şu anki durumum: 4
+Adım: den8 ve şu anki durumum: 4
+Adım: den5 ve şu anki durumum: 5
+den5 odeme yapiyor 
+Ascı 0 beklemede.
+2 idli garson beklemede
+1 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+1 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Adım: den8 ve şu anki durumum: 4
+Adım: den6 ve şu anki durumum: 4
+Adım: den5 ve şu anki durumum: 5
+den5 odeme yapiyor 
+Ascı 0 beklemede.
+2 idli garson beklemede
+1 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Hesap alındı - Müşteri: 5
+Musteri  den5 restrorandan ayrildi
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+1 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Kasa beklemede
+Hesap alınıyor...8
+Adım: den8 ve şu anki durumum: 5
+Adım: den6 ve şu anki durumum: 4
+den8 odeme yapiyor 
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Adım: den6 ve şu anki durumum: 4
+Adım: den8 ve şu anki durumum: 5
+den8 odeme yapiyor 
+Ascı 0 beklemede.
+2 idli garson beklemede
+1 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Adım: den6 ve şu anki durumum: 4
+Adım: den8 ve şu anki durumum: 5
+den8 odeme yapiyor 
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+1 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Hesap alındı - Müşteri: 8
+Musteri  den8 restrorandan ayrildi
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Adım: den6 ve şu anki durumum: 4
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Kasa beklemede
+Hesap alınıyor...6
+Ascı 0 beklemede.
+2 idli garson beklemede
+1 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+1 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Adım: den6 ve şu anki durumum: 5
+den6 odeme yapiyor 
+Ascı 0 beklemede.
+2 idli garson beklemede
+1 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Müşteri 1 masaya yerleştirildi: 0
+Müşteri 2 masaya yerleştirildi: 1
+Müşteri 3 masaya yerleştirildi: 2
+Müşteri 4 masaya yerleştirildi: 3
+Müşteri 5 masaya yerleştirildi: 4
+Müşteri 6 masaya yerleştirildi: 5
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson 1 idli müşteriden sipariş alıyor
+1 İdli garson siparisi aldı
+1 idli garson 1 idli musterinin siparisini 0 adili asciye iletti .
+Ascı 1 beklemede.
+Ascı 0, 1 id'li musterinin siparisini aldi yemegi yapiyor.
+Kasa beklemede
+Ascı 1 beklemede.
+Ascı 1 beklemede.
+Adım: den8 ve şu anki durumum: 0
+Adım: den4 ve şu anki durumum: 1
+Adım: den10 ve şu anki durumum: 0
+Adım: den7 ve şu anki durumum: 0
+Adım: den6 ve şu anki durumum: 1
+Adım: den1 ve şu anki durumum: 2
+Adım: den9 ve şu anki durumum: 0
+Adım: den5 ve şu anki durumum: 1
+Adım: den3 ve şu anki durumum: 1
+Adım: dem2 ve şu anki durumum: 1
+Kasa beklemede
+Ascı 1 beklemede.
+Ascı 1 beklemede.
+Kasa beklemede
+yemek hazır .1 İdli garson 1 idli müsteriye yemegi getirdi
+2 idli garson 2 idli müşteriden sipariş alıyor
+2 İdli garson siparisi aldı
+2 idli garson 2 idli musterinin siparisini 0 adili asciye iletti .
+Adım: den10 ve şu anki durumum: 0
+Adım: den4 ve şu anki durumum: 1
+Adım: den8 ve şu anki durumum: 0
+Adım: den7 ve şu anki durumum: 0
+Adım: den3 ve şu anki durumum: 1
+Adım: den6 ve şu anki durumum: 1
+Ascı 1 beklemede.
+Adım: dem2 ve şu anki durumum: 2
+Adım: den5 ve şu anki durumum: 1
+Adım: den1 ve şu anki durumum: 3
+Adım: den9 ve şu anki durumum: 0
+Adım: den1 ve yemegimi yiyorum 
+1 idli garson beklemede
+Ascı 1 beklemede.
+Kasa beklemede
+Ascı 1 beklemede.
+Adım: den4 ve şu anki durumum: 1
+Adım: den10 ve şu anki durumum: 0
+Adım: den7 ve şu anki durumum: 0
+Adım: den3 ve şu anki durumum: 1
+Adım: den5 ve şu anki durumum: 1
+Adım: dem2 ve şu anki durumum: 2
+Adım: den8 ve şu anki durumum: 0
+Adım: den6 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 0
+Ascı 1 beklemede.
+Kasa beklemede
+Ascı 1 beklemede.
+Ascı 0, 1 id'li musterinin yemegi hazir garsona veriliyor 
+Ascı 0, 2 id'li musterinin siparisini aldi yemegi yapiyor.
+Ascı 1 beklemede.
+yemek hazır .2 İdli garson 2 idli müsteriye yemegi getirdi
+0 idli garson 3 idli müşteriden sipariş alıyor
+Kasa beklemede
+0 İdli garson siparisi aldı
+Hesap alınıyor...1
+0 idli garson 3 idli musterinin siparisini 0 adili asciye iletti .
+Adım: den7 ve şu anki durumum: 0
+Adım: den10 ve şu anki durumum: 0
+Adım: den3 ve şu anki durumum: 2
+Adım: den4 ve şu anki durumum: 1
+Adım: den5 ve şu anki durumum: 1
+Adım: dem2 ve şu anki durumum: 3
+Adım: den8 ve şu anki durumum: 0
+Adım: dem2 ve yemegimi yiyorum 
+Adım: den6 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 0
+Ascı 1 beklemede.
+2 idli garson beklemede
+Ascı 1 beklemede.
+Adım: den1 ve şu anki durumum: 5
+den1 odeme yapiyor 
+Ascı 1 beklemede.
+Adım: den7 ve şu anki durumum: 0
+Adım: den8 ve şu anki durumum: 0
+Adım: den4 ve şu anki durumum: 1
+Adım: den5 ve şu anki durumum: 1
+Adım: den10 ve şu anki durumum: 0
+Adım: den3 ve şu anki durumum: 2
+Adım: den9 ve şu anki durumum: 0
+Adım: den6 ve şu anki durumum: 1
+Ascı 1 beklemede.
+Ascı 1 beklemede.
+Adım: den1 ve şu anki durumum: 5
+den1 odeme yapiyor 
+Ascı 1 beklemede.
+yemek hazır .0 İdli garson 3 idli müsteriye yemegi getirdi
+2 idli garson 4 idli müşteriden sipariş alıyor
+2 İdli garson siparisi aldı
+2 idli garson 4 idli musterinin siparisini 1 adili asciye iletti .
+Adım: den4 ve şu anki durumum: 2
+Adım: den8 ve şu anki durumum: 0
+Adım: den7 ve şu anki durumum: 0
+Adım: den5 ve şu anki durumum: 1
+Adım: den3 ve şu anki durumum: 3
+Adım: den10 ve şu anki durumum: 0
+Adım: den3 ve yemegimi yiyorum 
+Adım: den6 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 0
+Ascı 1, 4 id'li musterinin siparisini aldi yemegi yapiyor.
+0 idli garson beklemede
+Hesap alındı - Müşteri: 1
+Musteri  den1 restrorandan ayrildi
+Müşteri 7 masaya yerleştirildi: 0
+Adım: dem2 ve şu anki durumum: 4
+Ascı 0, 2 id'li musterinin yemegi hazir garsona veriliyor 
+Adım: den4 ve şu anki durumum: 2
+Adım: den8 ve şu anki durumum: 0
+Adım: den10 ve şu anki durumum: 0
+Adım: den5 ve şu anki durumum: 1
+Adım: den7 ve şu anki durumum: 1
+Adım: den6 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 0
+Ascı 0, 3 id'li musterinin siparisini aldi yemegi yapiyor.
+Kasa beklemede
+Hesap alınıyor...2
+Adım: dem2 ve şu anki durumum: 5
+dem2 odeme yapiyor 
+yemek hazır .2 İdli garson 4 idli müsteriye yemegi getirdi
+1 idli garson 7 idli müşteriden sipariş alıyor
+1 İdli garson siparisi aldı
+1 idli garson 7 idli musterinin siparisini 0 adili asciye iletti .
+Adım: den8 ve şu anki durumum: 0
+Adım: den4 ve şu anki durumum: 3
+Adım: den4 ve yemegimi yiyorum 
+Adım: den5 ve şu anki durumum: 1
+Adım: den7 ve şu anki durumum: 2
+Adım: den10 ve şu anki durumum: 0
+Adım: den6 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 0
+2 idli garson beklemede
+Adım: den3 ve şu anki durumum: 4
+Adım: dem2 ve şu anki durumum: 5
+dem2 odeme yapiyor 
+Adım: den8 ve şu anki durumum: 0
+Adım: den10 ve şu anki durumum: 0
+Adım: den5 ve şu anki durumum: 1
+Adım: den7 ve şu anki durumum: 2
+Adım: den6 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 0
+Ascı 1, 4 id'li musterinin yemegi hazir garsona veriliyor 
+Adım: den3 ve şu anki durumum: 4
+Adım: dem2 ve şu anki durumum: 5
+dem2 odeme yapiyor 
+Ascı 1 beklemede.
+yemek hazır .1 İdli garson 7 idli müsteriye yemegi getirdi
+2 idli garson 5 idli müşteriden sipariş alıyor
+2 İdli garson siparisi aldı
+2 idli garson 5 idli musterinin siparisini 1 adili asciye iletti .
+Adım: den8 ve şu anki durumum: 0
+Adım: den10 ve şu anki durumum: 0
+Adım: den5 ve şu anki durumum: 2
+Adım: den7 ve şu anki durumum: 3
+Adım: den7 ve yemegimi yiyorum 
+Adım: den6 ve şu anki durumum: 1
+Adım: den9 ve şu anki durumum: 0
+Ascı 1, 5 id'li musterinin siparisini aldi yemegi yapiyor.
+Hesap alındı - Müşteri: 2
+Musteri  dem2 restrorandan ayrildi
+Müşteri 8 masaya yerleştirildi: 1
+1 idli garson beklemede
+Ascı 0, 3 id'li musterinin yemegi hazir garsona veriliyor 
+Ascı 0, 7 id'li musterinin siparisini aldi yemegi yapiyor.
+Adım: den4 ve şu anki durumum: 4
+Adım: den3 ve şu anki durumum: 4
+Kasa beklemede
+Hesap alınıyor...3
+Adım: den8 ve şu anki durumum: 1
+Adım: den10 ve şu anki durumum: 0
+Adım: den6 ve şu anki durumum: 1
+Adım: den5 ve şu anki durumum: 2
+Adım: den9 ve şu anki durumum: 0
+Adım: den4 ve şu anki durumum: 4
+Adım: den3 ve şu anki durumum: 5
+den3 odeme yapiyor 
+yemek hazır .2 İdli garson 5 idli müsteriye yemegi getirdi
+0 idli garson 8 idli müşteriden sipariş alıyor
+0 İdli garson siparisi aldı
+0 idli garson 8 idli musterinin siparisini 0 adili asciye iletti .
+Adım: den6 ve şu anki durumum: 1
+Adım: den5 ve şu anki durumum: 3
+Adım: den8 ve şu anki durumum: 2
+Adım: den10 ve şu anki durumum: 0
+Adım: den5 ve yemegimi yiyorum 
+Adım: den9 ve şu anki durumum: 0
+2 idli garson beklemede
+Adım: den4 ve şu anki durumum: 4
+Adım: den3 ve şu anki durumum: 5
+den3 odeme yapiyor 
+Adım: den7 ve şu anki durumum: 4
+Adım: den6 ve şu anki durumum: 1
+Adım: den8 ve şu anki durumum: 2
+Adım: den10 ve şu anki durumum: 0
+Adım: den9 ve şu anki durumum: 0
+Müşteri 9 zaman aşımına uğradı ve yok edildi.
+Müşteri 10 zaman aşımına uğradı ve yok edildi.
+Ascı 1, 5 id'li musterinin yemegi hazir garsona veriliyor 
+Hesap alındı - Müşteri: 3
+Musteri  den3 restrorandan ayrildi
+Adım: den4 ve şu anki durumum: 4
+Adım: den7 ve şu anki durumum: 4
+Ascı 1 beklemede.
+Ascı 0, 7 id'li musterinin yemegi hazir garsona veriliyor 
+yemek hazır .0 İdli garson 8 idli müsteriye yemegi getirdi
+2 idli garson 6 idli müşteriden sipariş alıyor
+2 İdli garson siparisi aldı
+2 idli garson 6 idli musterinin siparisini 0 adili asciye iletti .
+Adım: den8 ve şu anki durumum: 3
+Adım: den8 ve yemegimi yiyorum 
+Adım: den6 ve şu anki durumum: 2
+Ascı 1 beklemede.
+Kasa beklemede
+Hesap alınıyor...4
+0 idli garson beklemede
+Ascı 0, 8 id'li  ve 6 idl'li musterinin siparisini aldi yemekleri yapiyor.
+Ascı 1 beklemede.
+Adım: den4 ve şu anki durumum: 5
+Adım: den7 ve şu anki durumum: 4
+Adım: den5 ve şu anki durumum: 4
+den4 odeme yapiyor 
+Ascı 1 beklemede.
+Adım: den6 ve şu anki durumum: 2
+Ascı 1 beklemede.
+Ascı 1 beklemede.
+Adım: den4 ve şu anki durumum: 5
+Adım: den5 ve şu anki durumum: 4
+Adım: den7 ve şu anki durumum: 4
+den4 odeme yapiyor 
+Ascı 1 beklemede.
+Adım: den6 ve şu anki durumum: 2
+yemek hazır .2 İdli garson 6 idli müsteriye yemegi getirdi
+Ascı 1 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Adım: den8 ve şu anki durumum: 4
+2 idli garson beklemede
+0 idli garson beklemede
+Adım: den7 ve şu anki durumum: 4
+Adım: den4 ve şu anki durumum: 5
+1 idli garson beklemede
+Adım: den5 ve şu anki durumum: 4
+den4 odeme yapiyor 
+Ascı 1 beklemede.
+Hesap alındı - Müşteri: 4
+Musteri  den4 restrorandan ayrildi
+Adım: den6 ve şu anki durumum: 3
+Adım: den6 ve yemegimi yiyorum 
+0 idli garson beklemede
+2 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+0 idli garson beklemede
+1 idli garson beklemede
+2 idli garson beklemede
+Ascı 1 beklemede.
+Kasa beklemede
+Hesap alınıyor...7
+Ascı 0, 8 id'li  ve 6 idl'li musterinin yemeklerini yaptı. ilgili garsona veriyor.
+Adım: den8 ve şu anki durumum: 4
+Adım: den7 ve şu anki durumum: 5
+den7 odeme yapiyor 
+Adım: den5 ve şu anki durumum: 4
+0 idli garson beklemede
+1 idli garson beklemede
+2 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+Adım: den8 ve şu anki durumum: 4
+Adım: den7 ve şu anki durumum: 5
+Adım: den5 ve şu anki durumum: 4
+den7 odeme yapiyor 
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Adım: den8 ve şu anki durumum: 4
+Adım: den6 ve şu anki durumum: 4
+Adım: den7 ve şu anki durumum: 5
+Ascı 0 beklemede.
+Adım: den5 ve şu anki durumum: 4
+den7 odeme yapiyor 
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+1 idli garson beklemede
+0 idli garson beklemede
+2 idli garson beklemede
+Ascı 1 beklemede.
+Hesap alındı - Müşteri: 7
+Musteri  den7 restrorandan ayrildi
+Ascı 0 beklemede.
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Adım: den6 ve şu anki durumum: 4
+Adım: den8 ve şu anki durumum: 4
+Adım: den5 ve şu anki durumum: 4
+Ascı 0 beklemede.
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Kasa beklemede
+Hesap alınıyor...5
+Ascı 0 beklemede.
+1 idli garson beklemede
+0 idli garson beklemede
+2 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Adım: den6 ve şu anki durumum: 4
+Adım: den8 ve şu anki durumum: 4
+Adım: den5 ve şu anki durumum: 5
+den5 odeme yapiyor 
+Ascı 0 beklemede.
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+1 idli garson beklemede
+0 idli garson beklemede
+2 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Adım: den6 ve şu anki durumum: 4
+Adım: den8 ve şu anki durumum: 4
+Adım: den5 ve şu anki durumum: 5
+den5 odeme yapiyor 
+Ascı 0 beklemede.
+1 idli garson beklemede
+0 idli garson beklemede
+2 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Hesap alındı - Müşteri: 5
+Musteri  den5 restrorandan ayrildi
+Adım: den8 ve şu anki durumum: 4
+Adım: den6 ve şu anki durumum: 4
+Ascı 0 beklemede.
+1 idli garson beklemede
+0 idli garson beklemede
+2 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+1 idli garson beklemede
+0 idli garson beklemede
+2 idli garson beklemede
+Ascı 1 beklemede.
+Kasa beklemede
+Hesap alınıyor...8
+Ascı 0 beklemede.
+1 idli garson beklemede
+0 idli garson beklemede
+2 idli garson beklemede
+Ascı 1 beklemede.
+Adım: den6 ve şu anki durumum: 4
+Adım: den8 ve şu anki durumum: 5
+den8 odeme yapiyor 
+Ascı 0 beklemede.
+1 idli garson beklemede
+0 idli garson beklemede
+2 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+1 idli garson beklemede
+0 idli garson beklemede
+2 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Adım: den6 ve şu anki durumum: 4
+Adım: den8 ve şu anki durumum: 5
+den8 odeme yapiyor 
+Ascı 0 beklemede.
+1 idli garson beklemede
+0 idli garson beklemede
+2 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+1 idli garson beklemede
+0 idli garson beklemede
+2 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Adım: den6 ve şu anki durumum: 4
+Adım: den8 ve şu anki durumum: 5
+den8 odeme yapiyor 
+Ascı 0 beklemede.
+1 idli garson beklemede
+0 idli garson beklemede
+2 idli garson beklemede
+Ascı 1 beklemede.
+Hesap alındı - Müşteri: 8
+Musteri  den8 restrorandan ayrildi
+Ascı 0 beklemede.
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+1 idli garson beklemede
+0 idli garson beklemede
+2 idli garson beklemede
+Ascı 1 beklemede.
+Kasa beklemede
+Hesap alınıyor...6
+Adım: den6 ve şu anki durumum: 5
+den6 odeme yapiyor 
+Ascı 0 beklemede.
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+1 idli garson beklemede
+0 idli garson beklemede
+2 idli garson beklemede
+Ascı 1 beklemede.
+Adım: den6 ve şu anki durumum: 5
+den6 odeme yapiyor 
+Ascı 0 beklemede.
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Adım: den6 ve şu anki durumum: 5
+den6 odeme yapiyor 
+Ascı 0 beklemede.
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Ascı 1 beklemede.
+Hesap alındı - Müşteri: 6
+Musteri  den6 restrorandan ayrildi
+Ascı 0 beklemede.
+1 idli garson beklemede
+2 idli garson beklemede
+0 idli garson beklemede
+Müşteri 5 masaya yerleştirildi: 0
+Müşteri 4 masaya yerleştirildi: 1
+Müşteri 1 masaya yerleştirildi: 2
+Müşteri 2 masaya yerleştirildi: 3
+Müşteri 3 masaya yerleştirildi: 4
+Müşteri 6 masaya yerleştirildi: 5
+1 idli garson beklemede
+1 idli garson 5 idli müşteriden sipariş alıyor
+1 İdli garson siparisi aldı
+Ascı 0 beklemede.
+Ascı 0, 5 id'li musterinin siparisini aldi yemegi yapiyor.
+0 idli garson beklemede
+2 idli garson beklemede
+1 idli garson 5 idli musterinin siparisini 0 adili asciye iletti .
+Ascı 1 beklemede.
+Ascı 1 beklemede.
+Kasa beklemede
+Ascı 1 beklemede.
+Adım: ab ve şu anki durumum: 1
+Adım: ad ve şu anki durumum: 0
+Adım: samethan ve şu anki durumum: 1
+Adım: ac ve şu anki durumum: 1
+Adım: tuğba ve şu anki durumum: 2
+Adım: afumedo ve şu anki durumum: 1
+Adım: aa ve şu anki durumum: 1
+Ascı 1 beklemede.
+Kasa beklemede
+Ascı 1 beklemede.
+Ascı 1 beklemede.
+Kasa beklemede
+Adım: ab ve şu anki durumum: 1
+yemek hazır .1 İdli garson 5 idli müsteriye yemegi getirdi
+Adım: ad ve şu anki durumum: 0
+2 idli garson 4 idli müşteriden sipariş alıyor
+2 İdli garson siparisi aldı
+2 idli garson 4 idli musterinin siparisini 0 adili asciye iletti .
+Adım: ac ve şu anki durumum: 1
+Adım: samethan ve şu anki durumum: 1
+Adım: aa ve şu anki durumum: 1
+Adım: afumedo ve şu anki durumum: 1
+Adım: tuğba ve şu anki durumum: 3
+Adım: tuğba ve yemegimi yiyorum 
+Ascı 1 beklemede.
+1 idli garson beklemede
+Ascı 1 beklemede.
+Kasa beklemede
+Ascı 1 beklemede.
+Adım: ab ve şu anki durumum: 1
+Adım: ad ve şu anki durumum: 0
+Adım: samethan ve şu anki durumum: 2
+Adım: afumedo ve şu anki durumum: 1
+Adım: ac ve şu anki durumum: 1
+Adım: aa ve şu anki durumum: 1
+Ascı 1 beklemede.
+Ascı 0, 5 id'li musterinin yemegi hazir garsona veriliyor 
+Ascı 0, 4 id'li musterinin siparisini aldi yemegi yapiyor.
+Kasa beklemede
+Ascı 1 beklemede.
+Ascı 1 beklemede.
+Adım: ab ve şu anki durumum: 1
+Adım: ad ve şu anki durumum: 0
+Kasa beklemede
+yemek hazır .2 İdli garson 4 idli müsteriye yemegi getirdi
+Adım: samethan ve şu anki durumum: 3
+Adım: samethan ve yemegimi yiyorum 
+0 idli garson 1 idli müşteriden sipariş alıyor
+0 İdli garson siparisi aldı
+0 idli garson 1 idli musterinin siparisini 0 adili asciye iletti .
+Adım: afumedo ve şu anki durumum: 1
+Adım: ac ve şu anki durumum: 1
+Adım: aa ve şu anki durumum: 1
+Hesap alınıyor...5
+Ascı 1 beklemede.
+2 idli garson beklemede
+Ascı 1 beklemede.
+Adım: tuğba ve şu anki durumum: 5
+tuğba odeme yapiyor 
+Ascı 1 beklemede.
+Adım: ab ve şu anki durumum: 1
+Adım: ad ve şu anki durumum: 0
+Adım: afumedo ve şu anki durumum: 2
+Adım: ac ve şu anki durumum: 1
+Adım: aa ve şu anki durumum: 1
+Ascı 1 beklemede.
+Ascı 1 beklemede.
+Adım: tuğba ve şu anki durumum: 5
+tuğba odeme yapiyor 
+Ascı 1 beklemede.
+Adım: ad ve şu anki durumum: 0
+Adım: ab ve şu anki durumum: 1
+yemek hazır .0 İdli garson 1 idli müsteriye yemegi getirdi
+2 idli garson 2 idli müşteriden sipariş alıyor
+Adım: ac ve şu anki durumum: 1
+2 İdli garson siparisi aldı
+2 idli garson 2 idli musterinin siparisini 1 adili asciye iletti .
+Adım: aa ve şu anki durumum: 2
+Adım: afumedo ve şu anki durumum: 3
+Adım: afumedo ve yemegimi yiyorum 
+Ascı 1, 2 id'li musterinin siparisini aldi yemegi yapiyor.
+0 idli garson beklemede
+Ascı 0, 4 id'li musterinin yemegi hazir garsona veriliyor 
+Adım: samethan ve şu anki durumum: 4
+Adım: tuğba ve şu anki durumum: 5
+tuğba odeme yapiyor 
+Hesap alındı - Müşteri: 5
+Musteri  tuğba restrorandan ayrildi
+Müşteri 7 masaya yerleştirildi: 0
+Ascı 0, 1 id'li musterinin siparisini aldi yemegi yapiyor.
+Adım: ad ve şu anki durumum: 1
+Adım: ab ve şu anki durumum: 1
+Adım: ac ve şu anki durumum: 1
+Adım: aa ve şu anki durumum: 2
+Kasa beklemede
+Hesap alınıyor...4
+Adım: samethan ve şu anki durumum: 5
+samethan odeme yapiyor 
+Adım: ad ve şu anki durumum: 1
+Adım: ab ve şu anki durumum: 1
+Adım: ac ve şu anki durumum: 1
+yemek hazır .2 İdli garson 2 idli müsteriye yemegi getirdi
+1 idli garson 7 idli müşteriden sipariş alıyor
+1 İdli garson siparisi aldı
+1 idli garson 7 idli musterinin siparisini 0 adili asciye iletti .
+Adım: aa ve şu anki durumum: 3
+Adım: aa ve yemegimi yiyorum 
+2 idli garson beklemede
+Adım: samethan ve şu anki durumum: 5
+samethan odeme yapiyor 
+Adım: afumedo ve şu anki durumum: 4
+Adım: ad ve şu anki durumum: 2
+Adım: ac ve şu anki durumum: 1
+Adım: ab ve şu anki durumum: 1
+Ascı 1, 2 id'li musterinin yemegi hazir garsona veriliyor 
+Adım: samethan ve şu anki durumum: 5
+samethan odeme yapiyor 
+Adım: afumedo ve şu anki durumum: 4
+Ascı 1 beklemede.
+Adım: ad ve şu anki durumum: 2
+yemek hazır .1 İdli garson 7 idli müsteriye yemegi getirdi
+2 idli garson 3 idli müşteriden sipariş alıyor
+Adım: ac ve şu anki durumum: 1
+Adım: ab ve şu anki durumum: 1
+2 İdli garson siparisi aldı
+2 idli garson 3 idli musterinin siparisini 1 adili asciye iletti .
+Ascı 1, 3 id'li musterinin siparisini aldi yemegi yapiyor.
+Hesap alındı - Müşteri: 4
+Musteri  samethan restrorandan ayrildi
+Ascı 0, 1 id'li musterinin yemegi hazir garsona veriliyor 
+Ascı 0, 7 id'li musterinin siparisini aldi yemegi yapiyor.
+1 idli garson beklemede
+Adım: aa ve şu anki durumum: 4
+Adım: afumedo ve şu anki durumum: 4
+Kasa beklemede
+Hesap alınıyor...1
+Adım: ad ve şu anki durumum: 3
+Adım: ad ve yemegimi yiyorum 
+Adım: ac ve şu anki durumum: 1
+Adım: ab ve şu anki durumum: 2
+Adım: aa ve şu anki durumum: 4
+Adım: afumedo ve şu anki durumum: 5
+afumedo odeme yapiyor 
+yemek hazır .2 İdli garson 3 idli müsteriye yemegi getirdi
+Adım: ac ve şu anki durumum: 1
+0 idli garson 6 idli müşteriden sipariş alıyor
+Adım: ab ve şu anki durumum: 3
+0 İdli garson siparisi aldı
+Adım: ab ve yemegimi yiyorum 
+0 idli garson 6 idli musterinin siparisini 0 adili asciye iletti .
+2 idli garson beklemede
+Adım: aa ve şu anki durumum: 4
+Adım: afumedo ve şu anki durumum: 5
+afumedo odeme yapiyor 
+Adım: ac ve şu anki durumum: 2
+Ascı 1, 3 id'li musterinin yemegi hazir garsona veriliyor 
+Hesap alındı - Müşteri: 1
+Musteri  afumedo restrorandan ayrildi
+Ascı 0, 7 id'li musterinin yemegi hazir garsona veriliyor 
+Adım: ad ve şu anki durumum: 4
+Adım: aa ve şu anki durumum: 4
+Ascı 1 beklemede.
+Ascı 0, 6 id'li musterinin siparisini aldi yemegi yapiyor.
+Adım: ac ve şu anki durumum: 2
+yemek hazır .0 İdli garson 6 idli müsteriye yemegi getirdi
+Ascı 1 beklemede.
+Kasa beklemede
+Hesap alınıyor...2
+0 idli garson beklemede
+2 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Adım: ad ve şu anki durumum: 4
+Adım: aa ve şu anki durumum: 5
+aa odeme yapiyor 
+Adım: ab ve şu anki durumum: 4
+0 idli garson beklemede
+1 idli garson beklemede
+2 idli garson beklemede
+Ascı 1 beklemede.
+Adım: ac ve şu anki durumum: 3
+Adım: ac ve yemegimi yiyorum 
+0 idli garson beklemede
+2 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+0 idli garson beklemede
+2 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Adım: ab ve şu anki durumum: 4
+Adım: ad ve şu anki durumum: 4
+Adım: aa ve şu anki durumum: 5
+aa odeme yapiyor 
+0 idli garson beklemede
+2 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+0 idli garson beklemede
+2 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+0 idli garson beklemede
+2 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Adım: ab ve şu anki durumum: 4
+Adım: aa ve şu anki durumum: 5
+Adım: ad ve şu anki durumum: 4
+aa odeme yapiyor 
+0 idli garson beklemede
+2 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Hesap alındı - Müşteri: 2
+Musteri  aa restrorandan ayrildi
+0 idli garson beklemede
+2 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0, 6 id'li musterinin yemegi hazir garsona veriliyor 
+0 idli garson beklemede
+1 idli garson beklemede
+2 idli garson beklemede
+Ascı 1 beklemede.
+Kasa beklemede
+Hesap alınıyor...7
+Adım: ab ve şu anki durumum: 4
+Ascı 0 beklemede.
+Adım: ac ve şu anki durumum: 4
+Adım: ad ve şu anki durumum: 5
+ad odeme yapiyor 
+0 idli garson beklemede
+2 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+0 idli garson beklemede
+2 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+0 idli garson beklemede
+2 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Adım: ab ve şu anki durumum: 4
+Adım: ac ve şu anki durumum: 4
+Adım: ad ve şu anki durumum: 5
+Ascı 0 beklemede.
+ad odeme yapiyor 
+0 idli garson beklemede
+2 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+0 idli garson beklemede
+2 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+0 idli garson beklemede
+2 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Adım: ab ve şu anki durumum: 4
+Adım: ac ve şu anki durumum: 4
+Adım: ad ve şu anki durumum: 5
+ad odeme yapiyor 
+Ascı 0 beklemede.
+0 idli garson beklemede
+2 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+0 idli garson beklemede
+2 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Hesap alındı - Müşteri: 7
+Musteri  ad restrorandan ayrildi
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Adım: ab ve şu anki durumum: 4
+Adım: ac ve şu anki durumum: 4
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Kasa beklemede
+Hesap alınıyor...3
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Adım: ab ve şu anki durumum: 5
+ab odeme yapiyor 
+Adım: ac ve şu anki durumum: 4
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+0 idli garson beklemede
+2 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Adım: ab ve şu anki durumum: 5
+Adım: ac ve şu anki durumum: 4
+ab odeme yapiyor 
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Hesap alındı - Müşteri: 3
+Musteri  ab restrorandan ayrildi
+Adım: ac ve şu anki durumum: 4
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Kasa beklemede
+Ascı 1 beklemede.
+Hesap alınıyor...6
+Ascı 0 beklemede.
+0 idli garson beklemede
+2 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Adım: ac ve şu anki durumum: 5
+ac odeme yapiyor 
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Adım: ac ve şu anki durumum: 5
+ac odeme yapiyor 
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Adım: ac ve şu anki durumum: 5
+ac odeme yapiyor 
+Ascı 0 beklemede.
+Hesap alındı - Müşteri: 6
+Musteri  ac restrorandan ayrildi
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
+Ascı 0 beklemede.
+2 idli garson beklemede
+0 idli garson beklemede
+1 idli garson beklemede
+Ascı 1 beklemede.
